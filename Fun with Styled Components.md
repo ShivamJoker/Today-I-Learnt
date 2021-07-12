@@ -1,4 +1,4 @@
-# Fun with Styled Components & it's working, 
+# Fun with Styled Components & it's working 👀 
 
 
 ## Styled Components
@@ -21,7 +21,7 @@ Then we had to move that style component inside the react function and if we do 
 Then the magic happened report everything inside the usecallback hook and return it from there and then we just called it outside.
 It seemed like magic and everything worked perfectly we tested lot of times there were no rerendering it was only getting recalculated only on the state changes provided of dependency array.
 
-So this seeing the great achievement for us 🥳
+Seeing this great achievement for us 🥳
 
 ### How it works ?
 
@@ -35,5 +35,7 @@ styleable in react native and what they are doing is just splitting it with the 
 
 
 Then we went ahead and tried creating something like this, then we kind of built our on mini style components for JavaScript and we could not do bunch of stuff with it because obviously there are thousands and thousands lines written for the style component and all the passing which happens with the template literal being passed as a string so we had to stop going further.
+
+
 But yeah it was a lot of learning and fun to create something like this and
  I hope you enjoyed this
